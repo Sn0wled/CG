@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\CG\\ReVoL-KG-Works-2-2-spline-2018\\spline\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5ADA8C8-3371-4462-A3E6-0342BF0C7AF0}|spline\\spline.vcxproj|D:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\CG\\ReVoL-KG-Works-2-2-spline-2018\\spline\\spline\\4-bezier.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C5ADA8C8-3371-4462-A3E6-0342BF0C7AF0}|spline\\spline.vcxproj|solutionrelative:spline\\4-bezier.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5ADA8C8-3371-4462-A3E6-0342BF0C7AF0}|spline\\spline.vcxproj|D:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\CG\\ReVoL-KG-Works-2-2-spline-2018\\spline\\spline\\3-multis.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C5ADA8C8-3371-4462-A3E6-0342BF0C7AF0}|spline\\spline.vcxproj|solutionrelative:spline\\3-multis.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5ADA8C8-3371-4462-A3E6-0342BF0C7AF0}|spline\\spline.vcxproj|D:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\CG\\ReVoL-KG-Works-2-2-spline-2018\\spline\\spline\\2-param.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C5ADA8C8-3371-4462-A3E6-0342BF0C7AF0}|spline\\spline.vcxproj|solutionrelative:spline\\2-param.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5ADA8C8-3371-4462-A3E6-0342BF0C7AF0}|spline\\spline.vcxproj|D:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\CG\\ReVoL-KG-Works-2-2-spline-2018\\spline\\spline\\1-nonpa.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C5ADA8C8-3371-4462-A3E6-0342BF0C7AF0}|spline\\spline.vcxproj|solutionrelative:spline\\1-nonpa.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "4-bezier.h",
+              "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\CG\\ReVoL-KG-Works-2-2-spline-2018\\spline\\spline\\4-bezier.h",
+              "RelativeDocumentMoniker": "spline\\4-bezier.h",
+              "ToolTip": "D:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\CG\\ReVoL-KG-Works-2-2-spline-2018\\spline\\spline\\4-bezier.h",
+              "RelativeToolTip": "spline\\4-bezier.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-06T06:43:19.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "3-multis.h",
+              "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\CG\\ReVoL-KG-Works-2-2-spline-2018\\spline\\spline\\3-multis.h",
+              "RelativeDocumentMoniker": "spline\\3-multis.h",
+              "ToolTip": "D:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\CG\\ReVoL-KG-Works-2-2-spline-2018\\spline\\spline\\3-multis.h",
+              "RelativeToolTip": "spline\\3-multis.h",
+              "ViewState": "AQIAAAIAAAAAAAAAAAArwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-06T05:58:18.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "2-param.h",
+              "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\CG\\ReVoL-KG-Works-2-2-spline-2018\\spline\\spline\\2-param.h",
+              "RelativeDocumentMoniker": "spline\\2-param.h",
+              "ToolTip": "D:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\CG\\ReVoL-KG-Works-2-2-spline-2018\\spline\\spline\\2-param.h",
+              "RelativeToolTip": "spline\\2-param.h",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-06T05:51:02.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "1-nonpa.h",
+              "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\CG\\ReVoL-KG-Works-2-2-spline-2018\\spline\\spline\\1-nonpa.h",
+              "RelativeDocumentMoniker": "spline\\1-nonpa.h",
+              "ToolTip": "D:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\CG\\ReVoL-KG-Works-2-2-spline-2018\\spline\\spline\\1-nonpa.h",
+              "RelativeToolTip": "spline\\1-nonpa.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-06T05:51:02.642Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

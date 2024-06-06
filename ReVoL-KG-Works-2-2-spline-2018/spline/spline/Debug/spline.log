@@ -1,5 +1,12 @@
 ﻿  spline.cpp
-C:\Users\xxxde\OneDrive\Рабочий стол\ReVoL-KG-Works-2-2-spline-2018\spline\spline\1-nonpa.h(25,9): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
-  (компиляция исходного файла "spline.cpp")
-  
-  spline.vcxproj -> C:\Users\xxxde\OneDrive\Рабочий стол\ReVoL-KG-Works-2-2-spline-2018\spline\Debug\spline.exe
+D:\программирование\CG\ReVoL-KG-Works-2-2-spline-2018\spline\spline\1-nonpa.h(23,20): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\программирование\CG\ReVoL-KG-Works-2-2-spline-2018\spline\spline\1-nonpa.h(23,16): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\программирование\CG\ReVoL-KG-Works-2-2-spline-2018\spline\spline\1-nonpa.h(27,23): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\программирование\CG\ReVoL-KG-Works-2-2-spline-2018\spline\spline\1-nonpa.h(27,18): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\программирование\CG\ReVoL-KG-Works-2-2-spline-2018\spline\spline\2-param.h(22,32): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\программирование\CG\ReVoL-KG-Works-2-2-spline-2018\spline\spline\2-param.h(22,28): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\программирование\CG\ReVoL-KG-Works-2-2-spline-2018\spline\spline\2-param.h(22,24): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\программирование\CG\ReVoL-KG-Works-2-2-spline-2018\spline\spline\2-param.h(22,20): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\программирование\CG\ReVoL-KG-Works-2-2-spline-2018\spline\spline\2-param.h(44,18): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\программирование\CG\ReVoL-KG-Works-2-2-spline-2018\spline\spline\2-param.h(44,15): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  spline.vcxproj -> D:\программирование\CG\ReVoL-KG-Works-2-2-spline-2018\spline\Debug\spline.exe
