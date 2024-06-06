@@ -1,0 +1,13 @@
+﻿  curves.cpp
+C:\Users\xxxde\OneDrive\Рабочий стол\ReVoL-KG-Works-2-1-curves-2018\curves\curves\curves.cpp(48,23): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\Users\xxxde\OneDrive\Рабочий стол\ReVoL-KG-Works-2-1-curves-2018\curves\curves\curves.cpp(52,15): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\Users\xxxde\OneDrive\Рабочий стол\ReVoL-KG-Works-2-1-curves-2018\curves\curves\curves.cpp(66,39): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\xxxde\OneDrive\Рабочий стол\ReVoL-KG-Works-2-1-curves-2018\curves\curves\curves.cpp(67,26): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\xxxde\OneDrive\Рабочий стол\ReVoL-KG-Works-2-1-curves-2018\curves\curves\curves.cpp(67,17): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\xxxde\OneDrive\Рабочий стол\ReVoL-KG-Works-2-1-curves-2018\curves\curves\curves.cpp(69,32): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\xxxde\OneDrive\Рабочий стол\ReVoL-KG-Works-2-1-curves-2018\curves\curves\curves.cpp(72,30): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\xxxde\OneDrive\Рабочий стол\ReVoL-KG-Works-2-1-curves-2018\curves\curves\curves.cpp(72,21): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\xxxde\OneDrive\Рабочий стол\ReVoL-KG-Works-2-1-curves-2018\curves\curves\curves.cpp(79,32): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\xxxde\OneDrive\Рабочий стол\ReVoL-KG-Works-2-1-curves-2018\curves\curves\curves.cpp(82,29): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\xxxde\OneDrive\Рабочий стол\ReVoL-KG-Works-2-1-curves-2018\curves\curves\curves.cpp(82,20): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  curves.vcxproj -> C:\Users\xxxde\OneDrive\Рабочий стол\ReVoL-KG-Works-2-1-curves-2018\curves\Debug\curves.exe

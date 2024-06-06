@@ -1,0 +1,5 @@
+﻿  spline.cpp
+C:\Users\xxxde\OneDrive\Рабочий стол\ReVoL-KG-Works-2-2-spline-2018\spline\spline\1-nonpa.h(25,9): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "spline.cpp")
+  
+  spline.vcxproj -> C:\Users\xxxde\OneDrive\Рабочий стол\ReVoL-KG-Works-2-2-spline-2018\spline\Debug\spline.exe
